@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "lmSubsets",
+    "oncran": true
+  }
+]
